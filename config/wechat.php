@@ -7,7 +7,7 @@
  */
 
 return [
-    'BASEURL'  => 'http://'.$_SERVER['HTTP_HOST'],
+    'BASEURL'  => 'http://'.$_SERVER['HTTP_HOST'] . '/weclara/public/',
     'APPID'     => 'wx17e51b3377069664',
     'APPSECRET' => '45b60c79b6caed78834d8348db874f8c',
 ];
